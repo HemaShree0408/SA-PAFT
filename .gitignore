@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Data and Artifacts from this project
+*.log
+
+# Large files
+*.pt
+*.bin
+*.model
+*.safetensors
+
+# IDEs
+.vscode/
+.idea/
